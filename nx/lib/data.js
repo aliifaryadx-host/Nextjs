@@ -7,7 +7,7 @@ export const TJ = {
   voteSites: [],            // contoh: [["Nama Situs", "https://link-vote"]]
   saweria: "",              // opsional: link Saweria admin, tombolnya muncul di halaman Store
   liveChannel: "#info-live",
-  javaHost: "", javaPort: "", // opsional: kosong = pakai ip di atas (Java tanpa port, SRV otomatis)
+  javaHost: "play.telorijo.web.id", javaPort: "5073", // opsional: kosong = pakai ip di atas (Java tanpa port, SRV otomatis)
   icons: { discord: "discord.png", vote: "vote.png", rank: "rank.png" },
 
   roles: ["SURVIVAL SMP", "FISHING & FARMING", "CUSTOM ENCHANTS", "CLAIM LAND"],
