@@ -89,7 +89,7 @@ export default function Home() {
             <p className="itag sk">SERVER MINECRAFT INDONESIA</p>
             {/* Bungkus Ransom intro agar fleksibel saat turun ke bawah */}
             <div style={{ display: 'flex', flexWrap: 'wrap', justifyContent: 'center', maxWidth: '100%' }}>
-              <Ransom as="h1" size="xl" text="TELORIJO" />
+              <Ransom as="h1" size="xl" text="TELOR   IJO" />
             </div>
             <button id="start" className="btn btn-w big press" onClick={start} autoFocus>PRESS START</button>
             <p className="hint">Klik atau tekan <kbd>ENTER</kbd> • nyalakan suara biar lebih seru</p>
